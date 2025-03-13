@@ -11,14 +11,12 @@ Game Development: Unity, Brain-Computer Interface (BCI)
 
 
 ##🔹Notable Projects
-Weapon Detection in Real-Time: Implemented object detection algorithms like YOLOv8 and Faster R-CNN to enhance model accuracy.
+Weapon Detection in Real-Time: Implemented object detection algorithms like YOLOv8 to enhance model accuracy.
 E-Sports & Stress Management for Differently-abled People: Integrated Brain-Computer Interface (BCI) with Unity and Firebase for real-time EEG signal-based gameplay.
 
 
 ##🔹Achievements
 Qualified for the Semi-Finals of the Bosch AutoVision Hackathon, where I presented innovative solutions for autonomous vehicles, video processing, and memory optimization.
-Awarded "All-Rounder" for excellence in both sports and academics.
-Senior Mentor & Football Team Leader: Leading my college football team, advising players, and representing the team in meetings with university officials.
 
 
 ##🔹Passion & Vision
