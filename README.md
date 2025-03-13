@@ -28,7 +28,7 @@ I am always eager to explore new technologies and integrate them into real-world
 #3📫 Get in touch
 If you have any questions, or suggestions, or would like to collaborate on a project, feel free to reach out to me. You can connect with me through the following channels:
 
-Email: [yadavutsuk@gmail.com]
+Email: [yadavutsuk@gmail.com](yadavutsuk@gmail.com)
 LinkedIn: [Utsuk Yadav](https://www.linkedin.com/in/utsuk-yadav-69a769239/)
 Looking forward to connecting with fellow developers and building amazing things together! ✨
 <!--
