@@ -5,9 +5,9 @@ I am **Utsuk Yadav**, a final-year **B.Tech Computer Science** student with a st
 
 ## 🔹 Technical Expertise 🚀  
 📊 **Data Science & Machine Learning**: Python libraries (NumPy, Pandas, Scikit-Learn), Power BI  
-🧠 **Artificial Intelligence**: Deep Learning, Natural Language Processing  
+🧠 **Artificial Intelligence**: Machine learning, Deep Learning, Natural Language Processing  
 💻 **Programming**: Python, C++  
-🗄️ **Database & Big Data**: SQL, HBase, Hadoop, Spark, MongoDB  
+🗄️ **Database & Big Data**: SQL, HBase, Hadoop, Spark, MongoDB , Pyspark, ETL/ELT, Snowflakes
 🎮 **Game Development**: Unity, Brain-Computer Interface (BCI)  
 
 ---
