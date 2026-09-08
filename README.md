@@ -1,13 +1,13 @@
 # Hi there! 👋  
-I am **Utsuk Yadav**, a final-year **B.Tech Computer Science** student with a strong passion for **AI, machine learning, and computer vision**. With over **two years of project experience**, I have worked extensively on **deep learning, real-time object detection, video processing, and autonomous systems**.  
+I am **Utsuk Yadav**, currently working in **Accenture** as an **Associate Data Engineer**, pursued my bachelor's in **B.Tech Computer Science** with a strong passion for **AI, machine learning, and computer vision and building efficient data pipelines**. With over **two years of project experience**, I have worked extensively on **deep learning, real-time object detection, video processing, and autonomous systems**.  
 
 ---
 
 ## 🔹 Technical Expertise 🚀  
 📊 **Data Science & Machine Learning**: Python libraries (NumPy, Pandas, Scikit-Learn), Power BI  
 🧠 **Artificial Intelligence**: Machine learning, Deep Learning, Natural Language Processing  
-💻 **Programming**: Python, C++  
-🗄️ **Database & Big Data**: SQL, HBase, Hadoop, Spark, MongoDB , Pyspark, ETL/ELT, Snowflakes
+💻 **Programming**: Python, C++ 
+🗄️ **Database & Big Data**: SQL, HBase, Hadoop, Spark, MongoDB , Pyspark, ETL/ELT, Snowflake,Airflow, Docker
 🎮 **Game Development**: Unity, Brain-Computer Interface (BCI)  
 
 ---
